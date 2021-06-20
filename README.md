@@ -1,4 +1,4 @@
-# crud_app
+# CRUD
 
 [Zappa](https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html)
 
