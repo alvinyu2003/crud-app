@@ -2,3 +2,5 @@ config.py
 venv
 __pycache__/
 token_gen.py
+requirements.txt
+zappa_settings.json
