@@ -1,5 +1,7 @@
 # CRUD
 
+Flask app web service utilizing DynamoDB deployed on AWS Lambda using Zappa
+
 [Zappa](https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html)
 
 [Flask](https://flask.palletsprojects.com/en/2.0.x/)
